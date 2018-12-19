@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 #include <iomanip>
 #include <math.h>
 using namespace std;
@@ -7,7 +6,6 @@ using namespace std;
 int main() {
     double x, c;
     double out = 0;
-    string s;
     
     cin >> x;
     
